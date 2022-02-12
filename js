@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+data:text/javascript,alert()
